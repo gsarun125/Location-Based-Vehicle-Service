@@ -19,7 +19,7 @@ import com.google.firebase.auth.FirebaseAuth;
 public class MainActivity extends AppCompatActivity {
     ActivityMainBinding binding;
     FirebaseAuth mAuth;
-
+//ARun
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
